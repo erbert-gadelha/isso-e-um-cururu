@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#216126</color>
+    <color name="colorPrimaryDark">#003c27</color>
+    <color name="colorAccent">#000000</color>
+    <color name="fundoTexto">#32ffffff</color>
+
+    <color name="lightPrimary">#FBFFC7</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+
+    <color name="back_color_1">#1d6b23</color>
+    <color name="back_color_2">#216126</color>
+    <color name="back_color_3">#163118</color>
+
+    <color name="fam_0">#003c27</color>
+    <color name="fam_1">#00482e</color>
+    <color name="fam_2">#006633</color>
+
+    <color name="fam_3">#009933</color>
+    <color name="fam_4">#93c95d</color>
+    <color name="fam_5">#669933</color>
+
+    <color name="fam_6">#009249</color>
+    <color name="fam_7">#00C462</color>
+    <color name="fam_8">#05ff82</color>
+
+    <color name="fontColor_0">#00c663</color>
+    <color name="fontColor_1">#003c27</color>
+</resources>
